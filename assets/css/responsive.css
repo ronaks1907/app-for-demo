@@ -1,0 +1,11 @@
+/*====== media queries =======*/
+@media (max-width: 991px) { 
+    .popular-properties{
+        width: 47%;
+    }
+    .library-row{
+        flex-direction: column;
+        row-gap: 15px;
+        border: #27292a 1px solid;
+    }
+}
